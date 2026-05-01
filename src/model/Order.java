@@ -1,8 +1,10 @@
+package model;
+
 public class Order {
     private String id;
     private double price;
     private int quantity;
-    private String type; // BUY or SELL
+    private String type;
 
     public Order(String id, double price, int quantity, String type) {
         this.id = id;
