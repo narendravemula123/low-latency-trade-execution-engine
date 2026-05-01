@@ -42,11 +42,14 @@ This project was built to understand how real-world trading systems handle concu
 
 ## 📁 Project Structure
 
+```
 src/
-├── Order.java
-├── OrderBook.java
-├── MatchingEngine.java
-├── Main.java
+- Order.java
+- OrderBook.java
+- MatchingEngine.java
+- Main.java
+```
+
 
 ## ▶️ How to Run
 1. Clone the repository  
